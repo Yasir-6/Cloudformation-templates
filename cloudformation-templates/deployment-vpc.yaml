@@ -1,0 +1,4 @@
+template-file-path: cloudformation-templates/VPC.txt
+parameters:
+  EnvironmentName: dev-vpc
+tags: {}
